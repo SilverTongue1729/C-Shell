@@ -1,8 +1,10 @@
-# FML Shell
+# Operating Systems and Networks Assignment 2,3 - C Shell
 
-## Sriteja Reddy Pashya | 2021111019
+Sriteja Reddy Pashya | 2021111019
 
 ---
+
+# FML Shell
 
 ## Requirements
 
